@@ -1,36 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <rss version="2.0">
 
-<!--datos de la pagina donde se aloja en el canal-->
 
-<channel>
-    <title>Dakar</title>
-    <link>http://www.dakar.com</link>
-    <description>Noticias y actualidad del rally dakar</description>
-    <language>es</language>
-    <ttl>32</ttl>
 
-    <!--Publicaciones o entradas(lo que en un blog serian las noticias)-->
+    <channel>
+        <title>Dakar</title>
+        <link>http://www.dakar.com</link>
+        <description>Noticias y actualidad del rally dakar</description>
+        <language>es</language>
+        <ttl>60</ttl>
 
-    <item>
-    <title>Campeón Carlos Sainz</title>
-    <link>http://www.dakar.com/en/competitor/305</link>
-    <description>Carlos sainz logra el tricampeonato en el Dakar</description>
-    </item>
+        <!--Publicaciones o entradas(lo que en un blog serian las noticias)-->
 
-   <item>
-    <title>Campeón Carlos Sainz?</title>
-    <link>http://www.dakar.com/en/competitor/304</link>
-    <description>¿Sera por fin campeón Carlos Sainz?</description>
-    <pubDate>Mon, 13 JAN 2020 08:00:00 GMT</pubDate>
-    </item> 
+        <item>
+        <title>Campeón Carlos Sainz</title>
+        <link>http://www.dakar.com/en/competitor/305</link>
+        <description>Carlos sainz logra el tricampeonato en el Dakar</description>
+        </item>
 
-    <item>
-    <title>Adios mundo cruel!</title>
-    <link>http://www.dakar.com/en/dakar-mag</link>
-    <description>¿Merece la pena correr el dakar?</description>
-    <guid>http://www.dakar.com/en/dakar-mag</guid>
-    </item> 
-</channel>
-</Rss>
+        <item>
+        <title>Campeón Carlos Sainz?</title>
+        <link>http://www.dakar.com/en/competitor/304</link>
+        <description>¿Sera por fin campeón Carlos Sainz?</description>
+        <pubDate>Mon, 13 JAN 2020 08:00:00 GMT</pubDate>
+        </item> 
+
+        <item>
+        <title>Adios mundo cruel!</title>
+        <link>http://www.dakar.com/en/dakar-mag</link>
+        <description>¿Merece la pena correr el dakar?</description>
+        <guid>http://www.dakar.com/en/dakar-mag</guid>
+        </item> 
+    </channel>
+</rss>

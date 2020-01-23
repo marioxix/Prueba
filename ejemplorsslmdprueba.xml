@@ -2,29 +2,29 @@
 
 <rss version="2.0">
 
-<!-Se defiene el canal->
+<!--Se defiene el canal-->
 
-<channel>
-    <title>Ejemplo de Rss</title>
-    <link>http://www.arcipreste.org</link>
-    <description> este es un Ejemplo de web con sindicacion</description>
-    <language>es</language>
-    <ttl>60</ttl>
+    <channel>
+        <title>Ejemplo de Rss</title>
+        <link>http://www.arcipreste.org</link>
+        <description> este es un Ejemplo de web con sindicacion</description>
+        <language>es</language>
+        <ttl>60</ttl>
 
-    <!-Se defienen los distintos items del canal->
+    <!--Se defienen los distintos items del canal-->
 
-    <item>
-    <title>Examenes de segundo</title>
-    <link>http://www.arcipreste.org/daw2examen</link>
-    <description>Esto es un ejemplo de publicacion</description>
-    <guid> http://www.arcipreste.org/daw2examen</guid>
-    </item>
+        <item>
+        <title>Examenes de segundo</title>
+        <link>http://www.arcipreste.org/daw2examen</link>
+        <description>Esto es un ejemplo de publicacion</description>
+        <guid> http://www.arcipreste.org/daw2examen</guid>
+        </item>
 
-   <item>
-    <title>Examenes de primero</title>
-    <link>http://www.arcipreste.org/daw1examen</link>
-    <description>Igual que el anterior pero una semana mas tarde</description>
-    <guid>Wed, 04 JAN 2017 13:00:00 GMT</guid>
-    </item> 
+        <item>
+        <title>Examenes de primero</title>
+        <link>http://www.arcipreste.org/daw1examen</link>
+        <description>Igual que el anterior pero una semana mas tarde</description>
+        <guid>http://www.dakar.com/polla-de-azucar</guid>
+        </item> 
     </channel>
-</Rss>
+</rss>
