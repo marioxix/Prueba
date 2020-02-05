@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0">
+
+<!--Se defiene el canal-->
+
+    <channel>
+        <title>ABC</title>
+        <link> https://www.fotogramas.es</link>
+        <description>
+        Fotogramas es una revista mensual de cine que está escrita en español de España.Fue fundada en Barcelona en la calle Tallers el 15 de noviembre de 1946 por Antonio Nadal-Rodó y María Fernanda Gañán. Antonio fue el propietario del cine Maryland en Barcelona y aparte era redactor de crítica cinematográfica en El Correo Catalán y Radio Nacional, la cuál abandonó cuando en 1939 pasó a convertirse jefe de publicidad de la Metro Goldwyn Mayer en su delegación en la ciudad Condal. 
+        Desde 2011 forma parte de todo el conglomerado editorial de Hearst Magazines que cuenta con publicaciones como Car & Driver, Diez minutos, ELLE, Quo, Supertele o TP, entre muchas otras.La versión normal cuesta 3 euros, mientras que version de tamaño reducido vale 1,90 euros.Fotogramas es la revista de cine más vendida y leída de España.  
+        </description>
+        <language>es</language>
+        <ttl>240</ttl>
+
+    <!--Se defienen los distintos items del canal-->
+	 <item>
+        <title>EL MENSAJE TRAS EL FINAL DE 'JUEGO DE TRONOS'</title>
+        <link>https://www.fotogramas.es/series-tv-noticias/a27526967/juego-de-tronos-mensaje-final/</link>
+        <description>
+        Después de ocho temporadas, 73 capitulos y mucha historia, ha terminado 'Juego de Tronos'.Termino con bastante polemica de por medio, decisiones arriesgadas y momentos que seguro que van a pasar dentro de los anales de la televisión.Pero también lo hizo con una moraleja muy clara, un mensaje tan prolifico dentro de una obra como la de 'Juego de Tronos'.
+        Toda las serie el principal enemigo fue la propia historia, no fueron ni los caminantes blancos ni los reyes corruptos.Todo ha ocurrido antes.Todo lo que pasa lo podemos consultar dentro de libros o profecias, debido a que la historia es ciclica y la rueda gira sin parar hasta que alguien se decide a frenarla.Lo más importante del mensaje: "No creo que se os mencione", debido a que quienes han movido los hilos, ninguno de ellos ha sido un héroe de primera línea.Ninguno de ellos va a ser estudiado en el futuro, pero de laguna forma ellos son los que han jugado mejor al Juego de Tronos, los que realmente escriben la propia historia no aparecen reflejados en ella.
+        </description>
+        <guid>https://www.fotogramas.es/series-tv-noticias/a27526967/juego-de-tronos-mensaje-final/</guid>
+        <pubDate>Mon, 20 May 2019 10:00:00 GMT</pubDate>
+     </item>
+
+       <item>
+        <title>VENGADORES: INFINITY WAR</title>
+        <link>https://www.fotogramas.es/peliculas-criticas/a18110624/vengadores-infinity-war-18110624/</link>
+        <description>
+            Esta pelicula es el principio del fin.Marvel ha tardado 10 años en poder construir lo que   ‘Vengadores:  Infinity  War’,  supuestamente,  busca  destruir: un conjunto de 18 peliculas que van conectadas entre ellas, 19 si contamos con esta pelicula y dividida en tres bloques temáticos que arrancó, sin demasiadas expectativas.Diez años después , la viñeta es otra: el proyecto de la Casa de las Ideas ha dejado un huella profunda en el seno de la industria.
+            ‘Vengadores: Infinity War’ reúne en una espectacular entrega todo lo que hecho grande a Marvel hasta la fecha: pelea épicas, batalas galacticas, one-liners demoledores, el  splash  page  cinemático,  perfectos efectos visuales y  un  sentido  único  del  espectáculo, capacez de ser altisonante y enfático pero sin perder nunca un distanciamientos irónico que es marca de la casa y que conecta de lleno con el público, ya sea fan o no.   
+        </description>
+        <guid>https://www.fotogramas.es/peliculas-criticas/a18110624/vengadores-infinity-war-18110624/</guid>
+		<pubDate>Tue, 02 Abr 2019 18:00:00 GMT</pubDate>       
+       </item> 
+    </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0">
+
+<!--Se defiene el canal-->
+
+    <channel>
+        <title>ABC</title>
+        <link>https://www.abc.es</link>
+        <description>
+        El diario español abc, esta escrito completamente en español.Fue fundada en el 1903 por Torcuato Luca de Tena, una de sus señas de identidad es el "formato", lo realizan en folio y arrevistado.ABC tiene once ediciones en total en España, destacan sobre las demas Madrid y Sevilla. Según los datos certificados en la OJD(Oficina de Justificacion de la Difusion) el promedio mensual de los ejemplares y de difusion han ido disminullendo progresivamente y la media de los lectores en general llega a los 660.000 lectores , entre las ediciones en papel y las digitales.
+        </description>
+        <language>es</language>
+        <ttl>60</ttl>
+
+    <!--Se defienen los distintos items del canal-->
+	 <item>
+        <title>El Barcelona domestica al Real Madrid</title>
+        <link>https://www.abc.es/deportes/futbol/abci-real-madrid-barcelona-liga-santander-201903021910_directo.html</link>
+        <description>
+        El barcelona salio del Bernabéu con un 0-1 pero sin poder plasmar y desplegar su estilo identificado.Consiguieron ganar por el gran trabajo tactico limitando las virtudes del madrid y sobretodo controlando a vinicius.
+        El partido se inició con un intercambio de presiones.Los primeros minutos fueron un poco engañosos, las llegadas eran muy atropelladas y los tiros eran sin precision.Hasta que llegó el gol del barcelona en una conbinacion entre sergi roberto y Rakitic que batió con elegancia a Courtois.
+        En la segunda parte en madrid queria tener mas pelota, lo que daba pie a las contras del barsa.Reguilon fue el mejor del madrid el era el unico que mostraba su personalidad frente al Barcelona, llevando la iniciativa del juego del Madrid.En ese momento Solari introdujo a Valverde por Kroos para meter un poco de fortaleza, frescura y sobretodo fisico.
+        Vinicius porfin exigió una mano ha Ter Stegen. El Madrid quería empatar el partido y el Barcelona queria recuperar la pelota que en el segundo tiempo no tenia.De nuevo, los jóvenes sostenían al Madrid y Asensio entró por Bale, con pitos para el galés.Al final el  coraje que tuvo el madrid fue en defensa.Carvajal y Ramos tapando agujeros.El Barcelona volvía a dominar y Dembélé desaprovechaba las ocasiones de matar el partido.
+        El madrid lo unico que podia hacer era chutar cada vex desde más lejos.Por último Solari saco a Isco.Un Madrid ya muy joven (vibrante Asensio) lo intentó cerca del corazón pero muy lejos del fútbol.</description>
+        <guid>https://www.abc.es/deportes/futbol/abci-real-madrid-barcelona-liga-santander-201903021910_directo.html</guid>
+        <pubDate>Sun, 03 Mar 2019 12:32:00 GMT</pubDate>
+     </item>
+
+       <item>
+        <title>Suárez rompe por completo al Madrid</title>
+        <link>https://www.abc.es/deportes/real-madrid/abci-real-madrid-barcelona-copa-rey-semifinal-201902271912_directo.html</link>
+        <description>El Barcelona logro alcanzar su sexta final de Copa del Rey de forma consecutiva, algo que ningún otro equipo ha logrado, y el Madrid va encaminando ha su temporada del desastre que presagiaba su pesima planificación.
+        	El público logró el trabajo que le habían pedido y al comienzo del partido el estadio era el jugador nº12, El Madrid consiguio engancharse a ese ritmo, conectando muy rápido con el calor del publico.El Madrid esperó en tres cuartos y estuvo muy compacto, firme en defensa, desplegando un ataque con un juego directo.El madrid tuvo desde el principio muchos problemas para sacar el balón.
+        	El público hizo el trabajo que le habían pedido y al iniciarse el partido el estadio era un lugar encendido. El Madrid seenganchó a ese ritmo, conectó muy rápido. Esperó en tres cuartos y estuvo muy compacto, firme en defensa, saliendo alataque con un juego directo. Al Madrid le costaba salir, pero en cuanto lo hacía, el juego de desencadenaba hacia Vinicius.Al principio esto fue tímidamente y comenzó con Modric, que le buscaba, pero luego se convirtió en la desembocadura natural del juego del Madrid.
+        	El Madrid aprovechó que Messi estuvo desaparecido en los primeros minutos.Una jugada suya a la espalda de Casemiro fue la primera llegada del Barcelona.Pero no era el mejor Messi.Por raro que suene, el impacto de Vinicius era mucho mayor, tuvo diferentes jugadas pero casi todas salian a trompicones, pero lo importante era que encendia al estadio y era la atracción del juego.Conectaba muy bien, de alguna forma, con el agonismo de Carvajal, Lucas y Reguilón. 
+        	Esa es la marca del equipo de Solari.Se le perdona la brocha gorda porque su influencia en el partido desvelaba los muchos problemas del Barcelona para regresar en defensa.En la segunda mitad el Madrid busco el punto de ebullición dentro del partido, pero el barcelona salio muy compacto y en los 5 primeros minutos logro el primer gol, con un pase de Alba a Dembele y su pase lo remata Suárez.Vinicius y Reguilón eran lo más claro del Madrid. En el 62, una genialidad del primero la remató el segundo, con paradón estelar de Stegen.
+        	El segundo gol del Barcelona llegó de la misma forma pero por la banda contraria donde Dembele puso un balon que se acabo metiendo Varane provocado principalmente por Suárez, que minutos más tarde en otra gran contra por parte del Barcelona provovco un penalti que el se encargaria de ejecutar y así dar por cerrado el marcador y el final del partido </description>
+        <guid>https://www.abc.es/deportes/real-madrid/abci-real-madrid-barcelona-copa-rey-semifinal-201902271912_directo.html</guid>
+		<pubDate>Sun, 01 Mar 2019 15:44:00 GMT</pubDate>       
+       </item> 
+    </channel>
+</rss>
