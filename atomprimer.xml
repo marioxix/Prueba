@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
     
     <title type="text">ABC</title>
-    <id>http://www.abc.es</id>
+    <id>http://www.abc.es/</id>
     <link rel='self' type="application/atom+xml" href="http://www.abc.es/atom.xml" />
     <link rel='alternate' type="text/html" href="http://www.abc.es" />
     <updated>2020-01-28T13:52:59Z</updated>
@@ -10,19 +10,20 @@
     <!--Publicaciones o entradas(lo que en un blog serian las noticias)-->
 
    <entry>
-    <title>El Barcelona domestica al Real Madrid</title>
-    <link rel='alternate' type="text/html" href="https://www.abc.es/deportes/futbol/abci-real-madrid-barcelona-liga-santander-201903021910_directo.html" />
-    <updated>2019-03-03T12:32:00Z</updated>
-    <id>https://www.abc.es/deportes/futbol/abci-real-madrid-barcelona-liga-santander-201903021910_directo.html</id>
-    <summary> El barcelona salio del Bernabéu con un 0-1 pero sin poder plasmar y desplegar su estilo identificado.Consiguieron ganar por el gran trabajo tactico limitando las virtudes del madrid y sobretodo controlando a vinicius.
-        El partido se inició con un intercambio de presiones.Los primeros minutos fueron un poco engañosos, las llegadas eran muy atropelladas y los tiros eran sin precision.Hasta que llegó el gol del barcelona en una conbinacion entre sergi roberto y Rakitic que batió con elegancia a Courtois.
-        En la segunda parte en madrid queria tener mas pelota, lo que daba pie a las contras del barsa.Reguilon fue el mejor del madrid el era el unico que mostraba su personalidad frente al Barcelona, llevando la iniciativa del juego del Madrid.En ese momento Solari introdujo a Valverde por Kroos para meter un poco de fortaleza, frescura y sobretodo fisico.
-        Vinicius porfin exigió una mano ha Ter Stegen. El Madrid quería empatar el partido y el Barcelona queria recuperar la pelota que en el segundo tiempo no tenia.De nuevo, los jóvenes sostenían al Madrid y Asensio entró por Bale, con pitos para el galés.Al final el  coraje que tuvo el madrid fue en defensa.Carvajal y Ramos tapando agujeros.El Barcelona volvía a dominar y Dembélé desaprovechaba las ocasiones de matar el partido.
-        El madrid lo unico que podia hacer era chutar cada vex desde más lejos.Por último Solari saco a Isco.Un Madrid ya muy joven (vibrante Asensio) lo intentó cerca del corazón pero muy lejos del fútbol.
-    </summary>
-	<author>
-		<name>Hughes</name>
-		<email>hughes_hu@abc.es</email>
+        <title>El Barcelona domestica al Real Madrid</title>
+        <link rel='alternate' type="text/html" href="https://www.abc.es/deportes/futbol/abci-real-madrid-barcelona-liga-santander-201903021910_directo.html" />
+        <updated>2019-03-03T12:32:00Z</updated>
+        <id>https://www.abc.es/deportes/futbol/abci-real-madrid-barcelona-liga-santander-201903021910_directo.html</id>
+        <summary> El barcelona salio del Bernabéu con un 0-1 pero sin poder plasmar y desplegar su estilo identificado.Consiguieron ganar por el gran trabajo tactico limitando las virtudes del madrid y sobretodo controlando a vinicius.
+            El partido se inició con un intercambio de presiones.Los primeros minutos fueron un poco engañosos, las llegadas eran muy atropelladas y los tiros eran sin precision.Hasta que llegó el gol del barcelona en una conbinacion entre sergi roberto y Rakitic que batió con elegancia a Courtois.
+            En la segunda parte en madrid queria tener mas pelota, lo que daba pie a las contras del barsa.Reguilon fue el mejor del madrid el era el unico que mostraba su personalidad frente al Barcelona, llevando la iniciativa del juego del Madrid.En ese momento Solari introdujo a Valverde por Kroos para meter un poco de fortaleza, frescura y sobretodo fisico.
+            Vinicius porfin exigió una mano ha Ter Stegen. El Madrid quería empatar el partido y el Barcelona queria recuperar la pelota que en el segundo tiempo no tenia.De nuevo, los jóvenes sostenían al Madrid y Asensio entró por Bale, con pitos para el galés.Al final el  coraje que tuvo el madrid fue en defensa.Carvajal y Ramos tapando agujeros.El Barcelona volvía a dominar y Dembélé desaprovechaba las ocasiones de matar el partido.
+            El madrid lo unico que podia hacer era chutar cada vex desde más lejos.Por último Solari saco a Isco.Un Madrid ya muy joven (vibrante Asensio) lo intentó cerca del corazón pero muy lejos del fútbol.
+        </summary>
+	    <author>
+		    <name>Hughes</name>
+		    <email>hughes_hu@abc.es</email>
+        </author>
    </entry>
 
    <entry>
